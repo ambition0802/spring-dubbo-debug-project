@@ -1,0 +1,4 @@
+mysql=com.huang.dubboprovider.spi.MySQLDatabase
+psql=com.huang.dubboprovider.spi.PostgreSQLDatabase
+sqlserver=com.huang.dubboprovider.spi.SQLServerDatabase
+databaseNameUpperCaseWrapper=com.huang.dubboprovider.spi.DatabaseNameUpperCaseWrapper
